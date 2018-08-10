@@ -1,3 +1,9 @@
+# 需要先安装Node环境
+在当前文件夹下 执行 npm i 命令 安装依赖文件
+
+# 启动服务
+当前文件夹下 执行 ng serve -o 启动浏览器预览
+
 # MyNgHero
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.1.
